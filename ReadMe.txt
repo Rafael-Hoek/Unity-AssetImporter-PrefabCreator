@@ -9,7 +9,7 @@ the correct folders in Unity, and automates the process of creating materials an
 textures. Read the installation and quick guide below for an overview of the most important features. Read the user guide for an 
 in-depth explanation of all the features and constraints of the tool.
 
-author: Rafael Hoek
+author: Rafael Hoek - LuGus Studios
 
 -----INSTALLATION-----
  - Import this package as you would any other unity package. It should import into the Assets>Project>Scripts>Editor folder
